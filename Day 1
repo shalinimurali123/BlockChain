@@ -1,0 +1,16 @@
+Question 1:
+   BlockChain is a technology with a decentralised peer to peer network which facilitates more security and data transparency.
+Question 2:
+   The core problem that blockchain tries to solve is the need for a third party for trust, security of data and authenticity.
+Question 3:
+    -Security
+    -Immutability
+    -Tamper proof
+    -Distributed network
+    -Able to verify
+    -Peer to Peer communication
+Question 4:
+    Block number,Data records. Previous hash key and mining key
+Question 5:
+    Blocks in a blockchain is verified by the other nodes in the distributed network. It is verified using the hash generated and if data is tampered, the change in hash
+    prompts that the block has been tampered and has to verify its data to link in the chain.
